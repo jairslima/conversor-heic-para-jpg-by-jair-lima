@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.env
+.venv/
+venv/
+build/
+_tmp_test/
+heic_converter_state.json
+dist/**/heic_converter_state.json
