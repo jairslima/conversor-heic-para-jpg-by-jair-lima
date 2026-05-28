@@ -9,3 +9,12 @@ build/
 _tmp_test/
 heic_converter_state.json
 dist/**/heic_converter_state.json
+
+# Seguranca — auditoria 2026-05-28
+*.key
+secrets.*
+*.pkl
+*.pem
+credentials.*
+*.p12
+*.pfx
